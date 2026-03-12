@@ -5,6 +5,7 @@ function contact() {
   return (
     <div>
       <img src={ContactImg} alt="bg_contactImg" />
+      <h1>This is a contact page</h1>
     </div>
   )
 }
